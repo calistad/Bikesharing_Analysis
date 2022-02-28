@@ -12,7 +12,7 @@ We will import, style, and portray data accurately. Additionally, we will create
 
 [Click here to explore the dashboard](https://public.tableau.com/app/profile/elsie.dong/viz/Citibike-book/CitibikeAnalysis)
 
-- More annual subscriber users than short-term customer users.
+- More annual subscriber users than short-term customer users, which suggests this service could be in demand for cities.
 
 ![Screen Shot 2021-11-21 at 12 05 04 AM](https://user-images.githubusercontent.com/88747464/142750313-4f9dac31-5e9c-45a3-b09e-2c2008c6a98b.png)
 
