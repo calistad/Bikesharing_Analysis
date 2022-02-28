@@ -2,7 +2,7 @@
 
 ## Overview
 
-To create an analysis through Tableau of the bike-share business in New York City. Then create a proposal on how it might work in Des Moines.
+To create an analysis of data visualization through Tableau of the bike-share business in New York City, which will help to determine the investment of a bike-sharing program in Des Moines.
 
 ### Purpose
 
